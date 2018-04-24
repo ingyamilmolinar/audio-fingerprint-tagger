@@ -1,0 +1,54 @@
+2017-11-21 03:29:45 >>> SELECT SongID from songtags where MD5='1e1e79c1d5d3761d44b996486a7efecc';
+2017-11-21 03:29:45 >>> /var/www/html/audio-fingerprint-tagger/uploads/Suck_My_Kiss.m4a
+2017-11-21 03:29:45 >>> /var/www/html/audio-fingerprint-tagger/corrected/Suck_My_Kiss.m4a
+2017-11-21 03:29:45 >>> Red Hot Chili Peppers - Suck My Kiss
+2017-11-21 03:29:46 >>> 	Score: 0.936973	Title: Suck My Kiss	Artist: Red Hot Chili Peppers
+2017-11-21 03:29:46 >>> 	Score: 0.936973	Title: Suck My Kiss	Artist: Red Hot Chili Peppers
+2017-11-21 03:29:46 >>> 	Score: 0.936973	Title: None	Artist: None
+2017-11-21 03:29:46 >>> 	Score: 0.936973	Title: Suck My Kiss	Artist: Red Hot Chili Peppers
+2017-11-21 03:29:46 >>> 	Score: 0.936973	Title: Night in My Veins	Artist: The Pretenders
+2017-11-21 03:29:46 >>> 	Score: 0.936973	Title: Suck My Kiss	Artist: Red Hot Chili Peppers
+2017-11-21 03:29:46 >>> 	Score: 0.827993	Title: Suck My Kiss	Artist: Red Hot Chili Peppers
+2017-11-21 03:29:46 >>> 	Score: 0.607991	Title: Suck My Kiss	Artist: Red Hot Chili Peppers
+2017-11-21 03:29:46 >>> 	Score: 0.542411	Title: Suck My Kiss	Artist: Red Hot Chili Peppers
+2017-11-21 03:29:46 >>> [('Suck My Kiss:--:Red Hot Chili Peppers', 6), ('Night in My Veins:--:The Pretenders', 1)]
+2017-11-21 03:29:46 >>> https://api.discogs.com/database/search?type=release&q=track:"Suck+My+Kiss"&artist="Red+Hot+Chili+Peppers"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:29:47 >>> 	<Release '3708410' 'Suck My Kiss'>
+2017-11-21 03:29:47 >>> 	[{'name': 'Vinyl', 'qty': '1', 'descriptions': ['7"', 'Single', '45 RPM', 'Promo']}]
+2017-11-21 03:29:47 >>> Skipping...
+2017-11-21 03:29:49 >>> 	<Release '1262009' 'Suck My Kiss'>
+2017-11-21 03:29:49 >>> 	[{'name': 'CD', 'qty': '1', 'descriptions': ['Single', 'Limited Edition']}]
+2017-11-21 03:29:49 >>> 		1.0
+2017-11-21 03:29:49 >>> 		FOUND TRACK: <__main__.Track object at 0x7fdcd816cba8>
+2017-11-21 03:29:53 >>> Fixing: Red Hot Chili Peppers to Red Hot Chili Peppers
+2017-11-21 03:29:55 >>> 	<Release '3462949' 'Suck My Kiss'>
+2017-11-21 03:29:55 >>> 	[{'name': 'Cassette', 'text': 'Clear', 'descriptions': ['Single', 'Limited Edition'], 'qty': '1'}]
+2017-11-21 03:29:55 >>> 		1.0
+2017-11-21 03:29:55 >>> 		FOUND TRACK: <__main__.Track object at 0x7fdcd8173208>
+2017-11-21 03:29:59 >>> Fixing: Red Hot Chili Peppers to Red Hot Chili Peppers
+2017-11-21 03:30:01 >>> 	<Release '1511153' 'Suck My Kiss'>
+2017-11-21 03:30:01 >>> 	[{'name': 'CD', 'qty': '1', 'descriptions': ['Unofficial Release']}]
+2017-11-21 03:30:01 >>> Skipping...
+2017-11-21 03:30:02 >>> 	<Release '8196254' 'Suck My Kiss'>
+2017-11-21 03:30:02 >>> 	[{'name': 'CD', 'qty': '1', 'descriptions': ['Single', 'Promo']}]
+2017-11-21 03:30:02 >>> Skipping...
+2017-11-21 03:30:03 >>> 	<Release '5750524' 'Blood Sugar Sex Magik'>
+2017-11-21 03:30:03 >>> 	[{'name': 'Vinyl', 'text': '140 Gram', 'descriptions': ['LP', 'Album', 'Repress'], 'qty': '2'}]
+2017-11-21 03:30:03 >>> 		0.46428571428571425
+2017-11-21 03:30:03 >>> 		<__main__.Track object at 0x7fdcd8188d30>
+2017-11-21 03:30:03 >>> 		0.4981481481481482
+2017-11-21 03:30:03 >>> 		<__main__.Track object at 0x7fdcd8188d30>
+2017-11-21 03:30:03 >>> 		0.4395424836601307
+2017-11-21 03:30:03 >>> 		<__main__.Track object at 0x7fdcd8188d30>
+2017-11-21 03:30:03 >>> 		0.6922799422799423
+2017-11-21 03:30:03 >>> 		<__main__.Track object at 0x7fdcd8188d30>
+2017-11-21 03:30:03 >>> 		1.0
+2017-11-21 03:30:03 >>> 		FOUND TRACK: <__main__.Track object at 0x7fdcd8188d30>
+2017-11-21 03:30:08 >>> Fixing: Red Hot Chili Peppers to Red Hot Chili Peppers
+2017-11-21 03:30:08 >>> Blood Sugar Sex Magik	Red Hot Chili Peppers	5750524	2011	Europe	[{'name': 'Vinyl', 'text': '140 Gram', 'descriptions': ['LP', 'Album', 'Repress'], 'qty': '2'}]	[<Artist 92476 'Red Hot Chili Peppers'>]	['Rock']	https://img.discogs.com/6L7acCIVKCAhrzsUy2AZFv9g1sA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-5089.jpeg.jpg,https://img.discogs.com/6cCdoM_JyM6hM7ktBGU8QQst1Lw=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-8105.jpeg.jpg,https://img.discogs.com/x-1cPzvvug6VXki9me-nJ8v31E0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-4228.jpeg.jpg,https://img.discogs.com/Hol4VRiHQqeSIJtWB-SB_SPA15E=/fit-in/300x227/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-5440.jpeg.jpg,https://img.discogs.com/tviZt1j5zXS-oyfl5LTsRmEIdzA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1493734643-2170.jpeg.jpg
+Suck My Kiss	A5	517
+2017-11-21 03:30:13 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Suck My Kiss', 'Suck My Kiss', 'Red Hot Chili Peppers', 'Red Hot Chili Peppers', 'Blood Sugar Sex Magik', 'Blood Sugar Sex Magik', 'Red Hot Chili Peppers', 'Red Hot Chili Peppers', '2011', 'Corrected_Web', 'Rock', '', 5, 17, '1e1e79c1d5d3761d44b996486a7efecc');
+2017-11-21 03:30:13 >>> SELECT SongID from songtags where MD5='1e1e79c1d5d3761d44b996486a7efecc';
+2017-11-21 03:30:13 >>> (5175,)
+2017-11-21 03:30:17 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Suck My Kiss', 'Red Hot Chili Peppers', 5750524, 'Blood Sugar Sex Magik', 'Red Hot Chili Peppers', 2011, 'Europe', 'Accepted', 'Rock', '{''name'': ''Vinyl'', ''text'': ''140 Gram'', ''descriptions'': [''LP'', ''Album'', ''Repress''], ''qty'': ''2''}', 'https://img.discogs.com/6L7acCIVKCAhrzsUy2AZFv9g1sA=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-5089.jpeg.jpg,https://img.discogs.com/6cCdoM_JyM6hM7ktBGU8QQst1Lw=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-8105.jpeg.jpg,https://img.discogs.com/x-1cPzvvug6VXki9me-nJ8v31E0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-4228.jpeg.jpg,https://img.discogs.com/Hol4VRiHQqeSIJtWB-SB_SPA15E=/fit-in/300x227/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1401647627-5440.jpeg.jpg,https://img.discogs.com/tviZt1j5zXS-oyfl5LTsRmEIdzA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5750524-1493734643-2170.jpeg.jpg', 5, 'A5', 17, 5175);

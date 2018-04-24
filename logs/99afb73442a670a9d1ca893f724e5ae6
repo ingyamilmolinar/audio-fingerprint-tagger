@@ -1,0 +1,99 @@
+2017-11-21 03:31:01 >>> SELECT SongID from songtags where MD5='99afb73442a670a9d1ca893f724e5ae6';
+2017-11-21 03:31:01 >>> /var/www/html/audio-fingerprint-tagger/uploads/There_There.m4a
+2017-11-21 03:31:01 >>> /var/www/html/audio-fingerprint-tagger/corrected/There_There.m4a
+2017-11-21 03:31:01 >>> Radiohead - There There. (The Boney King Of Nowhere.)
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There. (The Boney King of Nowhere.)	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: Where I End and You Begin	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There (first demo)	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There, There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: None	Artist: None
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.899041	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There. (The Boney King of Nowhere.)	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There (edit)	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.895114	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.702224	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.702224	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.641958	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.641958	Title: Be a Man	Artist: Aqua
+2017-11-21 03:31:02 >>> 	Score: 0.494294	Title: There There. (The Boney King of Nowhere.)	Artist: Radiohead
+2017-11-21 03:31:02 >>> 	Score: 0.494294	Title: There There	Artist: Radiohead
+2017-11-21 03:31:02 >>> [('There There:--:Radiohead', 15), ('There There. (The Boney King of Nowhere.):--:Radiohead', 2), ('There There. (The Boney King Of Nowhere.):--:Radiohead', 1), ('There There (first demo):--:Radiohead', 1), ('There There (edit):--:Radiohead', 1), ('There, There:--:Radiohead', 1), ('Where I End and You Begin:--:Radiohead', 1)]
+2017-11-21 03:31:03 >>> https://api.discogs.com/database/search?type=release&q=track:"There+There"&artist="Radiohead"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:31:04 >>> 	<Release '144322' 'There There'>
+2017-11-21 03:31:04 >>> 	[{'descriptions': ['Single'], 'name': 'CD', 'qty': '1'}]
+2017-11-21 03:31:04 >>> 		1.0
+2017-11-21 03:31:04 >>> 		FOUND TRACK: <__main__.Track object at 0x7f4681974898>
+2017-11-21 03:31:08 >>> Fixing: Radiohead to Radiohead
+2017-11-21 03:31:09 >>> 	<Release '171890' 'There There'>
+2017-11-21 03:31:09 >>> 	[{'descriptions': ['7"', '33  1/3  RPM', 'Promo'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:31:09 >>> Skipping...
+2017-11-21 03:31:10 >>> 	<Release '163751' 'There There'>
+2017-11-21 03:31:10 >>> 	[{'descriptions': ['12"', '45 RPM', 'Single'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:31:10 >>> 		1.0
+2017-11-21 03:31:10 >>> 		FOUND TRACK: <__main__.Track object at 0x7f468198e2e8>
+2017-11-21 03:31:14 >>> Fixing: Radiohead to Radiohead
+2017-11-21 03:31:15 >>> 	<Release '437391' 'There There'>
+2017-11-21 03:31:15 >>> 	[{'descriptions': ['Single', 'Promo'], 'name': 'CD', 'qty': '1'}]
+2017-11-21 03:31:15 >>> Skipping...
+2017-11-21 03:31:16 >>> 	<Release '1348401' 'There There'>
+2017-11-21 03:31:16 >>> 	[{'descriptions': ['Single', 'Copy Protected'], 'name': 'CD', 'qty': '1'}]
+2017-11-21 03:31:16 >>> 		1.0
+2017-11-21 03:31:16 >>> 		FOUND TRACK: <__main__.Track object at 0x7f46819962b0>
+2017-11-21 03:31:20 >>> Fixing: Radiohead to Radiohead
+2017-11-21 03:31:21 >>> 	<Release '8208509' 'There There'>
+2017-11-21 03:31:21 >>> 	[{'descriptions': ['Single', 'Promo'], 'name': 'CDr', 'qty': '1'}]
+2017-11-21 03:31:21 >>> Skipping...
+2017-11-21 03:31:22 >>> 	<Release '4415610' 'There There'>
+2017-11-21 03:31:22 >>> 	[{'descriptions': ['Single', 'Promo'], 'name': 'CDr', 'qty': '1'}]
+2017-11-21 03:31:22 >>> Skipping...
+2017-11-21 03:31:23 >>> 	<Release '8224176' "'There There'">
+2017-11-21 03:31:23 >>> 	[{'descriptions': ['Single', 'Promo'], 'name': 'CDr', 'qty': '1'}]
+2017-11-21 03:31:23 >>> Skipping...
+2017-11-21 03:31:25 >>> 	<Release '2784109' 'Hail And Backtrack'>
+2017-11-21 03:31:25 >>> 	[{'descriptions': ['Compilation', 'Promo'], 'name': 'CD', 'qty': '1'}]
+2017-11-21 03:31:25 >>> Skipping...
+2017-11-21 03:31:26 >>> 	<Release '1909947' 'Hail To The Thief'>
+2017-11-21 03:31:26 >>> 	[{'descriptions': ['Album', 'Reissue'], 'name': 'CD', 'qty': '1'}, {'descriptions': ['Compilation'], 'name': 'CD', 'qty': '1'}, {'descriptions': ['DVD-Video', 'PAL'], 'name': 'DVD', 'qty': '1'}, {'name': 'Box Set', 'qty': '1'}, {'descriptions': ['Limited Edition'], 'name': 'All Media', 'qty': '1', 'text': 'Special Edition'}]
+2017-11-21 03:31:26 >>> Skipping...
+2017-11-21 03:31:27 >>> 	<Release '1450558' 'Hail To The Thief'>
+2017-11-21 03:31:27 >>> 	[{'descriptions': ['12"', '45 RPM', 'Album', 'Reissue'], 'name': 'Vinyl', 'qty': '2', 'text': '180 Gram'}]
+2017-11-21 03:31:27 >>> Skipping...
+2017-11-21 03:31:28 >>> 	<Release '497149' 'Hail To The Thief'>
+2017-11-21 03:31:28 >>> 	[{'descriptions': ['Album'], 'name': 'CD', 'qty': '1'}]
+2017-11-21 03:31:28 >>> 		0.4006734006734007
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.4768740031897927
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.449554367201426
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.4545454545454546
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.4823232323232323
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.6351981351981352
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.42727272727272725
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.5571095571095571
+2017-11-21 03:31:28 >>> 		<__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:28 >>> 		0.9833333333333333
+2017-11-21 03:31:28 >>> 		FOUND TRACK: <__main__.Track object at 0x7f468198e198>
+2017-11-21 03:31:32 >>> Fixing: Radiohead to Radiohead
+2017-11-21 03:31:32 >>> Hail To The Thief	Radiohead	497149	2003	US	[{'descriptions': ['Album'], 'name': 'CD', 'qty': '1'}]	[<Artist 3840 'Radiohead'>]	['Electronic', 'Rock']	https://img.discogs.com/ajy3V71izu6LPG-nFXdnBAtAhFA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762112.jpeg.jpg,https://img.discogs.com/1fc0C2rf4lUyXL6c7YmHSH6GZJ8=/fit-in/600x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762510.jpeg.jpg,https://img.discogs.com/HDkV4h-eoSKzywMsuORp0E3u_0g=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762621.jpeg.jpg,https://img.discogs.com/sBSUec95Z89Gb6D3B9lk7oJyMRg=/fit-in/559x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1471982362-2339.jpeg.jpg,https://img.discogs.com/s--vCT7W5w9JNSxuK_7w6Bkk9v0=/fit-in/600x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762141.jpeg.jpg,https://img.discogs.com/g_Ntik2SREZC7nnnXAPG-NyT6QI=/fit-in/600x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762522.jpeg.jpg,https://img.discogs.com/RkAv2y3H1kf0H2mgMytOluuuUr8=/fit-in/600x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762528.jpeg.jpg,https://img.discogs.com/Gj_KtSQ1-moX51K3g237JWkizoE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762534.jpeg.jpg,https://img.discogs.com/7CNuFm6YT8zcw-kR2oaP9pAcIyA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762541.jpeg.jpg,https://img.discogs.com/xkcRP4iA_V4edkrHA3k3vYBsQFg=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762548.jpeg.jpg,https://img.discogs.com/KvbC73RlOldaV_lr4AFQSylmMnQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762555.jpeg.jpg,https://img.discogs.com/sjuxTpdgTo5eWMBHC6KtxWlhG2M=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762576.jpeg.jpg,https://img.discogs.com/Sk6lrOxgnd_jtng0lYCl0MQ8q1s=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762588.jpeg.jpg,https://img.discogs.com/qLIyrNAHGBJf86wjM5N6hiIwcKY=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762596.jpeg.jpg,https://img.discogs.com/j4a1L7zPVt0Z9EuaiHY9iZKTELU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762604.jpeg.jpg,https://img.discogs.com/uvWySqdSUYxQvGSwjYEw0r_CKzY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762611.jpeg.jpg
+There There.	9	914
+2017-11-21 03:31:35 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('There There.', 'There There.', 'Radiohead', 'Radiohead', 'Hail To The Thief', 'Hail To The Thief', 'Radiohead', 'Radiohead', '2003', 'Corrected_Web', 'Electronic,Rock', '', 9, 14, '99afb73442a670a9d1ca893f724e5ae6');
+2017-11-21 03:31:35 >>> SELECT SongID from songtags where MD5='99afb73442a670a9d1ca893f724e5ae6';
+2017-11-21 03:31:35 >>> (5176,)
+2017-11-21 03:31:39 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('There There.', 'Radiohead', 497149, 'Hail To The Thief', 'Radiohead', 2003, 'US', 'Accepted', 'Electronic,Rock', '{''descriptions'': [''Album''], ''name'': ''CD'', ''qty'': ''1''}', 'https://img.discogs.com/ajy3V71izu6LPG-nFXdnBAtAhFA=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762112.jpeg.jpg,https://img.discogs.com/1fc0C2rf4lUyXL6c7YmHSH6GZJ8=/fit-in/600x487/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762510.jpeg.jpg,https://img.discogs.com/HDkV4h-eoSKzywMsuORp0E3u_0g=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762621.jpeg.jpg,https://img.discogs.com/sBSUec95Z89Gb6D3B9lk7oJyMRg=/fit-in/559x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1471982362-2339.jpeg.jpg,https://img.discogs.com/s--vCT7W5w9JNSxuK_7w6Bkk9v0=/fit-in/600x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762141.jpeg.jpg,https://img.discogs.com/g_Ntik2SREZC7nnnXAPG-NyT6QI=/fit-in/600x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762522.jpeg.jpg,https://img.discogs.com/RkAv2y3H1kf0H2mgMytOluuuUr8=/fit-in/600x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762528.jpeg.jpg,https://img.discogs.com/Gj_KtSQ1-moX51K3g237JWkizoE=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762534.jpeg.jpg,https://img.discogs.com/7CNuFm6YT8zcw-kR2oaP9pAcIyA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762541.jpeg.jpg,https://img.discogs.com/xkcRP4iA_V4edkrHA3k3vYBsQFg=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762548.jpeg.jpg,https://img.discogs.com/KvbC73RlOldaV_lr4AFQSylmMnQ=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762555.jpeg.jpg,https://img.discogs.com/sjuxTpdgTo5eWMBHC6KtxWlhG2M=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762576.jpeg.jpg,https://img.discogs.com/Sk6lrOxgnd_jtng0lYCl0MQ8q1s=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762588.jpeg.jpg,https://img.discogs.com/qLIyrNAHGBJf86wjM5N6hiIwcKY=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762596.jpeg.jpg,https://img.discogs.com/j4a1L7zPVt0Z9EuaiHY9iZKTELU=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762604.jpeg.jpg,https://img.discogs.com/uvWySqdSUYxQvGSwjYEw0r_CKzY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-497149-1302762611.jpeg.jpg', 9, '9', 14, 5176);

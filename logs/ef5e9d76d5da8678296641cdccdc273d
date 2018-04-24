@@ -1,0 +1,4 @@
+2017-11-21 01:01:35 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-21 01:01:35 >>> (3291,)
+2017-11-21 01:01:35 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-21 01:01:35 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]

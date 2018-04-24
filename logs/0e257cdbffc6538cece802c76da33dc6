@@ -1,0 +1,45 @@
+2017-11-21 03:08:53 >>> SELECT SongID from songtags where MD5='0e257cdbffc6538cece802c76da33dc6';
+2017-11-21 03:08:53 >>> /var/www/html/audio-fingerprint-tagger/uploads/Plimsoll_Punks.m4a
+2017-11-21 03:08:53 >>> /var/www/html/audio-fingerprint-tagger/corrected/Plimsoll_Punks.m4a
+2017-11-21 03:08:53 >>> Alvvays - Plimsoll Punks
+2017-11-21 03:08:55 >>> https://api.discogs.com/database/search?type=release&q=track:"Plimsoll+Punks"&artist="Alvvays"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:08:56 >>> 	<Release '10814628' 'Antisocialites'>
+2017-11-21 03:08:56 >>> 	[{'text': 'Yellow, 180g', 'descriptions': ['LP', 'Album'], 'qty': '1', 'name': 'Vinyl'}]
+2017-11-21 03:08:56 >>> 		0.38455988455988455
+2017-11-21 03:08:56 >>> 		<__main__.Track object at 0x7f65fbb9fcf8>
+2017-11-21 03:08:56 >>> 		0.513919413919414
+2017-11-21 03:08:56 >>> 		<__main__.Track object at 0x7f65fbb9fcf8>
+2017-11-21 03:08:56 >>> 		0.9866666666666667
+2017-11-21 03:08:56 >>> 		FOUND TRACK: <__main__.Track object at 0x7f65fbb9fcf8>
+2017-11-21 03:09:02 >>> Fixing: Alvvays to Alvvays
+2017-11-21 03:09:02 >>> Antisocialites	Alvvays	10814628	2017	US	[{'text': 'Yellow, 180g', 'descriptions': ['LP', 'Album'], 'qty': '1', 'name': 'Vinyl'}]	[<Artist 3543546 'Alvvays'>]	['Rock']	https://img.discogs.com/mv2zacwTgrt9XbsO83sylxf--2E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504915766-9935.jpeg.jpg,https://img.discogs.com/SvYUNzwBC4Wet9ow-p6epdxY2wc=/fit-in/600x1012/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504819726-2959.jpeg.jpg
+Plimsoll Punks 	A3	310
+2017-11-21 03:09:08 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Plimsoll Punks ', 'Plimsoll Punks ', 'Alvvays', 'Alvvays', 'Antisocialites', 'Antisocialites', 'Alvvays', 'Alvvays', '2017', 'Corrected_Web', 'Rock', '', 3, 10, '0e257cdbffc6538cece802c76da33dc6');
+2017-11-21 03:09:08 >>> SELECT SongID from songtags where MD5='0e257cdbffc6538cece802c76da33dc6';
+2017-11-21 03:09:08 >>> (5170,)
+2017-11-21 03:10:15 >>> SELECT SongID from songtags where MD5='0e257cdbffc6538cece802c76da33dc6';
+2017-11-21 03:10:15 >>> (5170,)
+2017-11-21 03:10:15 >>> SELECT * from songtags where MD5='0e257cdbffc6538cece802c76da33dc6';
+2017-11-21 03:10:15 >>> [('SongID', 5170), ('SongTitle', 'Plimsoll Punks '), ('SongTitleSortOrder', 'Plimsoll Punks '), ('ArtistName', 'Alvvays'), ('ArtistNameSortOrder', 'Alvvays'), ('AlbumName', 'Antisocialites'), ('AlbumNameSortOrder', 'Antisocialites'), ('AlbumArtists', 'Alvvays'), ('AlbumArtistsSortOrder', 'Alvvays'), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', '0e257cdbffc6538cece802c76da33dc6')]
+2017-11-21 03:47:34 >>> SELECT SongID from songtags where MD5='0e257cdbffc6538cece802c76da33dc6';
+2017-11-21 03:47:34 >>> /var/www/html/audio-fingerprint-tagger/uploads/Plimsoll_Punks.m4a
+2017-11-21 03:47:34 >>> /var/www/html/audio-fingerprint-tagger/corrected/Plimsoll_Punks.m4a
+2017-11-21 03:47:34 >>> Alvvays - Plimsoll Punks
+2017-11-21 03:47:35 >>> https://api.discogs.com/database/search?type=release&q=track:"Plimsoll+Punks"&artist="Alvvays"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:47:36 >>> 	<Release '10814628' 'Antisocialites'>
+2017-11-21 03:47:36 >>> 	[{'qty': '1', 'descriptions': ['LP', 'Album'], 'text': 'Yellow, 180g', 'name': 'Vinyl'}]
+2017-11-21 03:47:36 >>> 		0.38455988455988455
+2017-11-21 03:47:36 >>> 		<__main__.Track object at 0x7f84c7477cc0>
+2017-11-21 03:47:36 >>> 		0.513919413919414
+2017-11-21 03:47:36 >>> 		<__main__.Track object at 0x7f84c7477cc0>
+2017-11-21 03:47:36 >>> 		0.9866666666666667
+2017-11-21 03:47:36 >>> 		FOUND TRACK: <__main__.Track object at 0x7f84c7477cc0>
+2017-11-21 03:47:42 >>> Fixing: Alvvays to Alvvays
+2017-11-21 03:47:42 >>> Antisocialites	Alvvays	10814628	2017	US	[{'qty': '1', 'descriptions': ['LP', 'Album'], 'text': 'Yellow, 180g', 'name': 'Vinyl'}]	[<Artist 3543546 'Alvvays'>]	['Rock']	https://img.discogs.com/mv2zacwTgrt9XbsO83sylxf--2E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504915766-9935.jpeg.jpg,https://img.discogs.com/SvYUNzwBC4Wet9ow-p6epdxY2wc=/fit-in/600x1012/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504819726-2959.jpeg.jpg
+Plimsoll Punks 	A3	310
+2017-11-21 03:47:48 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Plimsoll Punks ', 'Plimsoll Punks ', 'Alvvays', 'Alvvays', 'Antisocialites', 'Antisocialites', 'Alvvays', 'Alvvays', '2017', 'Corrected_Web', 'Rock', '', 3, 10, '0e257cdbffc6538cece802c76da33dc6');
+2017-11-21 03:47:48 >>> SELECT SongID from songtags where MD5='0e257cdbffc6538cece802c76da33dc6';
+2017-11-21 03:47:48 >>> (5181,)
+2017-11-21 03:47:54 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Plimsoll Punks ', 'Alvvays', 10814628, 'Antisocialites', 'Alvvays', 2017, 'US', 'Accepted', 'Rock', '{''qty'': ''1'', ''descriptions'': [''LP'', ''Album''], ''text'': ''Yellow, 180g'', ''name'': ''Vinyl''}', 'https://img.discogs.com/mv2zacwTgrt9XbsO83sylxf--2E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504915766-9935.jpeg.jpg,https://img.discogs.com/SvYUNzwBC4Wet9ow-p6epdxY2wc=/fit-in/600x1012/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504819726-2959.jpeg.jpg', 3, 'A3', 10, 5181);

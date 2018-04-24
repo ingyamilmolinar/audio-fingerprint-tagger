@@ -1,0 +1,134 @@
+2017-10-05 05:19:38 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-10-05 05:19:38 >>> (2958,)
+2017-10-05 05:26:51 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-10-05 05:26:51 >>> (2958,)
+2017-10-05 05:27:38 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-10-05 05:27:38 >>> (2958,)
+2017-10-05 05:27:38 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-10-05 05:27:38 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-10-06 14:56:15 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-10-06 14:56:15 >>> (2958,)
+2017-10-08 22:56:54 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-10-08 22:56:54 >>> (2958,)
+2017-10-08 22:56:54 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-10-08 22:56:54 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-10-08 22:56:54 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-10-08 22:56:54 >>> (2957,)
+2017-10-08 22:56:54 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-10-08 22:56:54 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 16:03:20 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:03:20 >>> (3291,)
+2017-11-17 16:03:20 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:03:20 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 16:03:20 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:03:20 >>> (2958,)
+2017-11-17 16:03:20 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:03:20 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 16:03:20 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:03:20 >>> (2957,)
+2017-11-17 16:03:20 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:03:20 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 16:07:35 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:07:35 >>> (3291,)
+2017-11-17 16:07:35 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:07:35 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 16:07:35 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:07:35 >>> (2958,)
+2017-11-17 16:07:35 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:07:35 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 16:07:35 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:07:35 >>> (2957,)
+2017-11-17 16:07:35 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:07:35 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 16:08:12 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:08:12 >>> (3291,)
+2017-11-17 16:08:12 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:08:12 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 16:08:13 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:08:13 >>> (2958,)
+2017-11-17 16:08:13 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:08:13 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 16:08:13 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:08:13 >>> (2957,)
+2017-11-17 16:08:13 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:08:13 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 16:09:13 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:09:13 >>> (3291,)
+2017-11-17 16:09:13 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 16:09:13 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 16:09:13 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:09:13 >>> (2958,)
+2017-11-17 16:09:13 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 16:09:13 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 16:09:13 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:09:13 >>> (2957,)
+2017-11-17 16:09:13 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 16:09:13 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 22:14:31 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:14:31 >>> (3291,)
+2017-11-17 22:14:31 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:14:31 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 22:14:31 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:14:31 >>> (2958,)
+2017-11-17 22:14:31 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:14:31 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 22:14:31 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:14:31 >>> (2957,)
+2017-11-17 22:14:32 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:14:32 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 22:15:54 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:15:54 >>> (3291,)
+2017-11-17 22:15:54 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:15:54 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 22:15:54 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:15:54 >>> (2958,)
+2017-11-17 22:15:54 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:15:54 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 22:15:54 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:15:54 >>> (2957,)
+2017-11-17 22:15:54 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:15:54 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 22:16:12 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:16:12 >>> (3291,)
+2017-11-17 22:16:12 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:16:12 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 22:16:12 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:16:12 >>> (2958,)
+2017-11-17 22:16:12 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:16:12 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 22:16:13 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:16:13 >>> (2957,)
+2017-11-17 22:16:13 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:16:13 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 22:30:39 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:30:39 >>> (3291,)
+2017-11-17 22:30:40 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:30:40 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 22:30:40 >>> SELECT SongID from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:30:40 >>> (2958,)
+2017-11-17 22:30:40 >>> SELECT * from songtags where MD5='9776dd01bc059c8df65e4dfb7e684a34';
+2017-11-17 22:30:40 >>> [('SongID', 2958), ('SongTitle', '8 (Circle)'), ('SongTitleSortOrder', '8 (Circle)'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 8), ('AlbumTotalTracks', 10), ('MD5', '9776dd01bc059c8df65e4dfb7e684a34')]
+2017-11-17 22:30:40 >>> SELECT SongID from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:30:40 >>> (2957,)
+2017-11-17 22:30:40 >>> SELECT * from songtags where MD5='6c9675154fc5eda9e22c25390f81fde4';
+2017-11-17 22:30:40 >>> [('SongID', 2957), ('SongTitle', '666 t'), ('SongTitleSortOrder', '666 t'), ('ArtistName', 'Bon Iver'), ('ArtistNameSortOrder', 'Bon Iver'), ('AlbumName', '22, A Million'), ('AlbumNameSortOrder', '22, A Million'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2016), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Electronic,Rock'), ('SongLyrics', ''), ('TrackPosition', 6), ('AlbumTotalTracks', 10), ('MD5', '6c9675154fc5eda9e22c25390f81fde4')]
+2017-11-17 22:32:49 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:32:49 >>> (3291,)
+2017-11-17 22:32:49 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:32:49 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 22:33:32 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:33:32 >>> (3291,)
+2017-11-17 22:33:32 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:33:32 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 22:59:39 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:59:39 >>> (3291,)
+2017-11-17 22:59:39 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 22:59:39 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-17 23:04:18 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 23:04:18 >>> (3291,)
+2017-11-17 23:04:18 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-17 23:04:18 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]
+2017-11-18 22:39:15 >>> SELECT SongID from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-18 22:39:15 >>> (3291,)
+2017-11-18 22:39:15 >>> SELECT * from songtags where MD5='ef5e9d76d5da8678296641cdccdc273d';
+2017-11-18 22:39:15 >>> [('SongID', 3291), ('SongTitle', 'Trust The Sun'), ('SongTitleSortOrder', 'Trust The Sun'), ('ArtistName', 'Elbow'), ('ArtistNameSortOrder', 'Elbow'), ('AlbumName', 'Little Fictions'), ('AlbumNameSortOrder', 'Little Fictions'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 2017), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 3), ('AlbumTotalTracks', 10), ('MD5', 'ef5e9d76d5da8678296641cdccdc273d')]

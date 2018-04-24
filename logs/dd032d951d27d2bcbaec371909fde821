@@ -1,0 +1,41 @@
+2017-11-21 03:32:06 >>> SELECT SongID from songtags where MD5='dd032d951d27d2bcbaec371909fde821';
+2017-11-21 03:32:06 >>> /var/www/html/audio-fingerprint-tagger/uploads/Tombstone_Blues.m4a
+2017-11-21 03:32:06 >>> /var/www/html/audio-fingerprint-tagger/corrected/Tombstone_Blues.m4a
+2017-11-21 03:32:06 >>> Bob Dylan - Tombstone Blues
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Outlaw Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.930601	Title: Tombstone Blues (Outtake)	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.852914	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.852914	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.844739	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.844739	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.844739	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.844739	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.844739	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.844739	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> 	Score: 0.844739	Title: Tombstone Blues	Artist: Bob Dylan
+2017-11-21 03:32:07 >>> [('Tombstone Blues:--:Bob Dylan', 20), ('Outlaw Blues:--:Bob Dylan', 1), ('Tombstone Blues (Outtake):--:Bob Dylan', 1)]
+2017-11-21 03:32:07 >>> https://api.discogs.com/database/search?type=release&q=track:"Tombstone+Blues"&artist="Bob+Dylan"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:32:09 >>> 	<Release '1698691' 'Highway 61 Revisited'>
+2017-11-21 03:32:09 >>> 	[{'qty': '1', 'descriptions': ['LP', 'Album', 'Stereo'], 'name': 'Vinyl'}]
+2017-11-21 03:32:09 >>> 		0.46269841269841266
+2017-11-21 03:32:09 >>> 		<__main__.Track object at 0x7f654cd4f400>
+2017-11-21 03:32:09 >>> 		1.0
+2017-11-21 03:32:09 >>> 		FOUND TRACK: <__main__.Track object at 0x7f654cd4f400>
+2017-11-21 03:32:13 >>> Fixing: Bob Dylan to Bob Dylan
+2017-11-21 03:32:13 >>> Highway 61 Revisited	Bob Dylan	1698691	1967	Netherlands	[{'qty': '1', 'descriptions': ['LP', 'Album', 'Stereo'], 'name': 'Vinyl'}]	[<Artist 59792 'Bob Dylan'>]	['Rock']	https://img.discogs.com/95HUYbMMjmVdMfwT76_fDWGi-3M=/fit-in/561x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1317253020.jpeg.jpg,https://img.discogs.com/vpOPybC3hSx0PbR9e1Va2vGzorM=/fit-in/561x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1317253026.jpeg.jpg,https://img.discogs.com/UXbG_S7LfrKmp0VRTxRwWy1RGt8=/fit-in/442x332/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1245923389.jpeg.jpg,https://img.discogs.com/kGqUtwh-dV_beaf4cG6b5au-XOw=/fit-in/442x332/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1245923404.jpeg.jpg
+Tombstone Blues	A2	29
+2017-11-21 03:32:17 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Tombstone Blues', 'Tombstone Blues', 'Bob Dylan', 'Bob Dylan', 'Highway 61 Revisited', 'Highway 61 Revisited', 'Bob Dylan', 'Bob Dylan', '1967', 'Corrected_Web', 'Rock', '', 2, 9, 'dd032d951d27d2bcbaec371909fde821');
+2017-11-21 03:32:17 >>> SELECT SongID from songtags where MD5='dd032d951d27d2bcbaec371909fde821';
+2017-11-21 03:32:17 >>> (5177,)
+2017-11-21 03:32:21 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Tombstone Blues', 'Bob Dylan', 1698691, 'Highway 61 Revisited', 'Bob Dylan', 1967, 'Netherlands', 'Accepted', 'Rock', '{''qty'': ''1'', ''descriptions'': [''LP'', ''Album'', ''Stereo''], ''name'': ''Vinyl''}', 'https://img.discogs.com/95HUYbMMjmVdMfwT76_fDWGi-3M=/fit-in/561x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1317253020.jpeg.jpg,https://img.discogs.com/vpOPybC3hSx0PbR9e1Va2vGzorM=/fit-in/561x561/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1317253026.jpeg.jpg,https://img.discogs.com/UXbG_S7LfrKmp0VRTxRwWy1RGt8=/fit-in/442x332/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1245923389.jpeg.jpg,https://img.discogs.com/kGqUtwh-dV_beaf4cG6b5au-XOw=/fit-in/442x332/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698691-1245923404.jpeg.jpg', 2, 'A2', 9, 5177);

@@ -1,0 +1,25 @@
+2017-11-21 03:10:37 >>> SELECT SongID from songtags where MD5='f6d0519f8414e01631f5efaf8d2f43f5';
+2017-11-21 03:10:37 >>> /var/www/html/audio-fingerprint-tagger/uploads/Your_Type.m4a
+2017-11-21 03:10:37 >>> /var/www/html/audio-fingerprint-tagger/corrected/Your_Type.m4a
+2017-11-21 03:10:37 >>> Alvvays - Your Type
+2017-11-21 03:10:37 >>> 	Score: 0.957082	Title: Your Type	Artist: Alvvays
+2017-11-21 03:10:37 >>> [('Your Type:--:Alvvays', 2)]
+2017-11-21 03:10:38 >>> https://api.discogs.com/database/search?type=release&q=track:"Your+Type"&artist="Alvvays"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:10:39 >>> 	<Release '10814628' 'Antisocialites'>
+2017-11-21 03:10:39 >>> 	[{'text': 'Yellow, 180g', 'name': 'Vinyl', 'qty': '1', 'descriptions': ['LP', 'Album']}]
+2017-11-21 03:10:39 >>> 		0.5367003367003367
+2017-11-21 03:10:39 >>> 		<__main__.Track object at 0x7fb6a40dff60>
+2017-11-21 03:10:39 >>> 		0.584045584045584
+2017-11-21 03:10:39 >>> 		<__main__.Track object at 0x7fb6a40dff60>
+2017-11-21 03:10:39 >>> 		0.5111111111111111
+2017-11-21 03:10:39 >>> 		<__main__.Track object at 0x7fb6a40dff60>
+2017-11-21 03:10:39 >>> 		1.0
+2017-11-21 03:10:39 >>> 		FOUND TRACK: <__main__.Track object at 0x7fb6a40dff60>
+2017-11-21 03:10:45 >>> Fixing: Alvvays to Alvvays
+2017-11-21 03:10:45 >>> Antisocialites	Alvvays	10814628	2017	US	[{'text': 'Yellow, 180g', 'name': 'Vinyl', 'qty': '1', 'descriptions': ['LP', 'Album']}]	[<Artist 3543546 'Alvvays'>]	['Rock']	https://img.discogs.com/mv2zacwTgrt9XbsO83sylxf--2E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504915766-9935.jpeg.jpg,https://img.discogs.com/SvYUNzwBC4Wet9ow-p6epdxY2wc=/fit-in/600x1012/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504819726-2959.jpeg.jpg
+Your Type	A4	410
+2017-11-21 03:10:51 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Your Type', 'Your Type', 'Alvvays', 'Alvvays', 'Antisocialites', 'Antisocialites', 'Alvvays', 'Alvvays', '2017', 'Corrected_Web', 'Rock', '', 4, 10, 'f6d0519f8414e01631f5efaf8d2f43f5');
+2017-11-21 03:10:51 >>> SELECT SongID from songtags where MD5='f6d0519f8414e01631f5efaf8d2f43f5';
+2017-11-21 03:10:51 >>> (5171,)
+2017-11-21 03:10:57 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Your Type', 'Alvvays', 10814628, 'Antisocialites', 'Alvvays', 2017, 'US', 'Accepted', 'Rock', '{''text'': ''Yellow, 180g'', ''name'': ''Vinyl'', ''qty'': ''1'', ''descriptions'': [''LP'', ''Album'']}', 'https://img.discogs.com/mv2zacwTgrt9XbsO83sylxf--2E=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504915766-9935.jpeg.jpg,https://img.discogs.com/SvYUNzwBC4Wet9ow-p6epdxY2wc=/fit-in/600x1012/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10814628-1504819726-2959.jpeg.jpg', 4, 'A4', 10, 5171);

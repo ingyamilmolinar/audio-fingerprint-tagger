@@ -1,0 +1,55 @@
+2017-11-21 03:28:58 >>> SELECT SongID from songtags where MD5='0d5ac43dba115c67b787334a72563a3a';
+2017-11-21 03:28:58 >>> /var/www/html/audio-fingerprint-tagger/uploads/She_Said_She_Said.m4a
+2017-11-21 03:28:58 >>> /var/www/html/audio-fingerprint-tagger/corrected/She_Said_She_Said.m4a
+2017-11-21 03:28:58 >>> The Beatles - She Said She Said
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: None	Artist: None
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: Things We Said Today	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said, She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: For You Blue	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: She Said She Said (mono mix)	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: Things We Said Today	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.974243	Title: Things We Said Today	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.92106	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.919187	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.919187	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.919187	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.782836	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.639933	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.639933	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.618151	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.618151	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> 	Score: 0.605851	Title: She Said She Said	Artist: The Beatles
+2017-11-21 03:28:59 >>> [('She Said She Said:--:The Beatles', 13), ('Things We Said Today:--:The Beatles', 3), ('For You Blue:--:The Beatles', 1), ('She Said, She Said:--:The Beatles', 1), ('She Said She Said (mono mix):--:The Beatles', 1)]
+2017-11-21 03:29:00 >>> https://api.discogs.com/database/search?type=release&q=track:"She+Said+She+Said"&artist="The+Beatles"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:29:01 >>> 	<Release '7929330' "Yellow Submarine / Taxman / She Said She Said / I'm Only Sleeping">
+2017-11-21 03:29:01 >>> 	[{'descriptions': ['7"', '45 RPM', 'EP', 'Reissue'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:29:01 >>> Skipping...
+2017-11-21 03:29:02 >>> 	<Release '1498484' 'Revolver'>
+2017-11-21 03:29:02 >>> 	[{'text': 'Los Angeles Pressing', 'descriptions': ['LP', 'Album', 'Stereo'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:29:02 >>> 		0.40849673202614384
+2017-11-21 03:29:02 >>> 		<__main__.Track object at 0x7fb7fdca3908>
+2017-11-21 03:29:02 >>> 		0.4309954751131222
+2017-11-21 03:29:02 >>> 		<__main__.Track object at 0x7fb7fdca3908>
+2017-11-21 03:29:02 >>> 		0.483065953654189
+2017-11-21 03:29:02 >>> 		<__main__.Track object at 0x7fb7fdca3908>
+2017-11-21 03:29:02 >>> 		0.5511144628791688
+2017-11-21 03:29:02 >>> 		<__main__.Track object at 0x7fb7fdca3908>
+2017-11-21 03:29:02 >>> 		0.5204248366013072
+2017-11-21 03:29:02 >>> 		<__main__.Track object at 0x7fb7fdca3908>
+2017-11-21 03:29:02 >>> 		1.0
+2017-11-21 03:29:02 >>> 		FOUND TRACK: <__main__.Track object at 0x7fb7fdca3908>
+2017-11-21 03:29:06 >>> Fixing: The Beatles to The Beatles
+2017-11-21 03:29:06 >>> Revolver	The Beatles	1498484	1966	US	[{'text': 'Los Angeles Pressing', 'descriptions': ['LP', 'Album', 'Stereo'], 'name': 'Vinyl', 'qty': '1'}]	[<Artist 82730 'The Beatles'>]	['Rock', 'Pop']	https://img.discogs.com/yKw56RuuntTR5ggKwK_6UrCTEao=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1498484-1289836118.jpeg.jpg,https://img.discogs.com/jHUwwMdf0W8Q87iQ_Vu9ss2uq9U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1498484-1277161093.jpeg.jpg,https://img.discogs.com/TUUwWluCFKbjeJxxCw_Tdae6NLQ=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1498484-1507676457-2329.jpeg.jpg
+She Said She Said	A6	611
+2017-11-21 03:29:09 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('She Said She Said', 'She Said She Said', 'The Beatles', 'The Beatles', 'Revolver', 'Revolver', 'The Beatles', 'The Beatles', '1966', 'Corrected_Web', 'Rock,Pop', '', 6, 11, '0d5ac43dba115c67b787334a72563a3a');
+2017-11-21 03:29:09 >>> SELECT SongID from songtags where MD5='0d5ac43dba115c67b787334a72563a3a';
+2017-11-21 03:29:09 >>> (5174,)
+2017-11-21 03:29:13 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('She Said She Said', 'The Beatles', 1498484, 'Revolver', 'The Beatles', 1966, 'US', 'Accepted', 'Rock,Pop', '{''text'': ''Los Angeles Pressing'', ''descriptions'': [''LP'', ''Album'', ''Stereo''], ''name'': ''Vinyl'', ''qty'': ''1''}', 'https://img.discogs.com/yKw56RuuntTR5ggKwK_6UrCTEao=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1498484-1289836118.jpeg.jpg,https://img.discogs.com/jHUwwMdf0W8Q87iQ_Vu9ss2uq9U=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1498484-1277161093.jpeg.jpg,https://img.discogs.com/TUUwWluCFKbjeJxxCw_Tdae6NLQ=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1498484-1507676457-2329.jpeg.jpg', 6, 'A6', 11, 5174);

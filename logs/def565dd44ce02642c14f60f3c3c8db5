@@ -1,0 +1,54 @@
+2017-11-21 01:11:09 >>> SELECT SongID from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 01:11:09 >>> /var/www/html/audio-fingerprint-tagger/uploads/Adult_Diversion.m4a
+2017-11-21 01:11:09 >>> /var/www/html/audio-fingerprint-tagger/corrected/Adult_Diversion.m4a
+2017-11-21 01:11:09 >>> Alvvays - Adult Diversion
+2017-11-21 01:11:19 >>> 	Score: 0.916502	Title: Adult Diversion	Artist: Alvvays
+2017-11-21 01:11:19 >>> *********************************************************
+2017-11-21 01:11:19 >>> [('Adult Diversion:--:Alvvays', 2)]
+2017-11-21 01:11:19 >>> *********************************************************
+2017-11-21 01:11:19 >>> https://api.discogs.com/database/search?type=release&q=track:"Adult+Diversion"&artist="Alvvays"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 01:11:20 >>> 	<Release '5920715' 'Adult Diversion'>
+2017-11-21 01:11:20 >>> 	[{'name': 'Cassette', 'qty': '1', 'descriptions': ['Single', 'Limited Edition']}]
+2017-11-21 03:43:47 >>> SELECT SongID from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:43:47 >>> /var/www/html/audio-fingerprint-tagger/uploads/Adult_Diversion.m4a
+2017-11-21 03:43:47 >>> /var/www/html/audio-fingerprint-tagger/corrected/Adult_Diversion.m4a
+2017-11-21 03:43:47 >>> Alvvays - Adult Diversion
+2017-11-21 03:43:51 >>> 	Score: 0.916502	Title: Adult Diversion	Artist: Alvvays
+2017-11-21 03:43:51 >>> [('Adult Diversion:--:Alvvays', 2)]
+2017-11-21 03:43:51 >>> https://api.discogs.com/database/search?type=release&q=track:"Adult+Diversion"&artist="Alvvays"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:43:52 >>> 	<Release '5920715' 'Adult Diversion'>
+2017-11-21 03:43:52 >>> 	[{'name': 'Cassette', 'qty': '1', 'descriptions': ['Single', 'Limited Edition']}]
+2017-11-21 03:43:52 >>> 		1.0
+2017-11-21 03:43:52 >>> 		FOUND TRACK: <__main__.Track object at 0x7f18cd666048>
+2017-11-21 03:43:58 >>> Fixing: Alvvays to Alvvays
+2017-11-21 03:43:59 >>> 	<Release '5875874' 'Archie, Marry Me / Adult Diversion'>
+2017-11-21 03:43:59 >>> 	[{'name': 'Vinyl', 'qty': '1', 'descriptions': ['7"', 'Limited Edition']}]
+2017-11-21 03:43:59 >>> 		0.48194444444444445
+2017-11-21 03:43:59 >>> 		<__main__.Track object at 0x7f18cd666390>
+2017-11-21 03:43:59 >>> 		1.0
+2017-11-21 03:43:59 >>> 		FOUND TRACK: <__main__.Track object at 0x7f18cd666390>
+2017-11-21 03:44:00 >>> 	<Release '5892370' 'Alvvays'>
+2017-11-21 03:44:00 >>> 	[{'text': 'Electric Blue 180g', 'name': 'Vinyl', 'qty': '1', 'descriptions': ['LP', 'Album']}]
+2017-11-21 03:44:00 >>> 		1.0
+2017-11-21 03:44:00 >>> 		FOUND TRACK: <__main__.Track object at 0x7f18cd666390>
+2017-11-21 03:44:06 >>> Fixing: Alvvays to Alvvays
+2017-11-21 03:44:06 >>> Alvvays	Alvvays	5892370	2014	US	[{'text': 'Electric Blue 180g', 'name': 'Vinyl', 'qty': '1', 'descriptions': ['LP', 'Album']}]	[<Artist 3543546 'Alvvays'>]	['Rock']	https://img.discogs.com/71sYsT_zo9-Qrezaw082-KgUkZg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1405791831-2273.jpeg.jpg,https://img.discogs.com/J5faB9j-0RCAZUrdJ16Q-1aSWc4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636658-6876.jpeg.jpg,https://img.discogs.com/1-XBA7DmjIjFS0jNh4YxDaZVb_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636657-9426.jpeg.jpg,https://img.discogs.com/F4Q-3ZidM_j79O-AVfupLW32X9g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636656-6706.jpeg.jpg,https://img.discogs.com/dq26aZkc2YWb4SwN2UWw9LkywRk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636656-9451.jpeg.jpg,https://img.discogs.com/NnBpLlfHOi71vH6TGRAWgqFaOIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636657-2906.jpeg.jpg,https://img.discogs.com/GpL-OorNKjFTAJo7mG4SzQNURZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1493499890-6276.jpeg.jpg
+Adult Diversion	A1	19
+2017-11-21 03:44:12 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Adult Diversion', 'Adult Diversion', 'Alvvays', 'Alvvays', 'Alvvays', 'Alvvays', 'Alvvays', 'Alvvays', '2014', 'Corrected_Web', 'Rock', '', 1, 9, 'def565dd44ce02642c14f60f3c3c8db5');
+2017-11-21 03:44:12 >>> SELECT SongID from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:44:12 >>> (5180,)
+2017-11-21 03:44:18 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Adult Diversion', 'Alvvays', 5892370, 'Alvvays', 'Alvvays', 2014, 'US', 'Accepted', 'Rock', '{''text'': ''Electric Blue 180g'', ''name'': ''Vinyl'', ''qty'': ''1'', ''descriptions'': [''LP'', ''Album'']}', 'https://img.discogs.com/71sYsT_zo9-Qrezaw082-KgUkZg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1405791831-2273.jpeg.jpg,https://img.discogs.com/J5faB9j-0RCAZUrdJ16Q-1aSWc4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636658-6876.jpeg.jpg,https://img.discogs.com/1-XBA7DmjIjFS0jNh4YxDaZVb_4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636657-9426.jpeg.jpg,https://img.discogs.com/F4Q-3ZidM_j79O-AVfupLW32X9g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636656-6706.jpeg.jpg,https://img.discogs.com/dq26aZkc2YWb4SwN2UWw9LkywRk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636656-9451.jpeg.jpg,https://img.discogs.com/NnBpLlfHOi71vH6TGRAWgqFaOIA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1492636657-2906.jpeg.jpg,https://img.discogs.com/GpL-OorNKjFTAJo7mG4SzQNURZA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5892370-1493499890-6276.jpeg.jpg', 1, 'A1', 9, 5180);
+2017-11-21 03:45:25 >>> SELECT SongID from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:45:25 >>> (5180,)
+2017-11-21 03:45:25 >>> SELECT * from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:45:25 >>> [('SongID', 5180), ('SongTitle', 'Adult Diversion'), ('SongTitleSortOrder', 'Adult Diversion'), ('ArtistName', 'Alvvays'), ('ArtistNameSortOrder', 'Alvvays'), ('AlbumName', 'Alvvays'), ('AlbumNameSortOrder', 'Alvvays'), ('AlbumArtists', 'Alvvays'), ('AlbumArtistsSortOrder', 'Alvvays'), ('AlbumYear', 2014), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock'), ('SongLyrics', ''), ('TrackPosition', 1), ('AlbumTotalTracks', 9), ('MD5', 'def565dd44ce02642c14f60f3c3c8db5')]
+2017-11-21 03:46:04 >>> SELECT SongID from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:46:04 >>> (5180,)
+2017-11-21 03:46:04 >>> SELECT * from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:46:04 >>> [('SongID', 5180), ('SongTitle', 'Adult Diversion'), ('SongTitleSortOrder', 'Adult Diversion'), ('ArtistName', 'Alvvays'), ('ArtistNameSortOrder', 'Alvvays'), ('AlbumName', 'Alvvays'), ('AlbumNameSortOrder', 'Alvvays'), ('AlbumArtists', 'Alvvays'), ('AlbumArtistsSortOrder', 'Alvvays'), ('AlbumYear', 2014), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock'), ('SongLyrics', ''), ('TrackPosition', 1), ('AlbumTotalTracks', 9), ('MD5', 'def565dd44ce02642c14f60f3c3c8db5')]
+2017-11-21 03:46:31 >>> SELECT SongID from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:46:31 >>> (5180,)
+2017-11-21 03:46:31 >>> SELECT * from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
+2017-11-21 03:46:31 >>> [('SongID', 5180), ('SongTitle', 'Adult Diversion'), ('SongTitleSortOrder', 'Adult Diversion'), ('ArtistName', 'Alvvays'), ('ArtistNameSortOrder', 'Alvvays'), ('AlbumName', 'Alvvays'), ('AlbumNameSortOrder', 'Alvvays'), ('AlbumArtists', 'Alvvays'), ('AlbumArtistsSortOrder', 'Alvvays'), ('AlbumYear', 2014), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock'), ('SongLyrics', ''), ('TrackPosition', 1), ('AlbumTotalTracks', 9), ('MD5', 'def565dd44ce02642c14f60f3c3c8db5')]

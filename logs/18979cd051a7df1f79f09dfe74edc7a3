@@ -1,0 +1,33 @@
+2017-11-21 03:32:47 >>> SELECT SongID from songtags where MD5='18979cd051a7df1f79f09dfe74edc7a3';
+2017-11-21 03:32:47 >>> /var/www/html/audio-fingerprint-tagger/uploads/Walking_on_Air.m4a
+2017-11-21 03:32:47 >>> /var/www/html/audio-fingerprint-tagger/corrected/Walking_on_Air.m4a
+2017-11-21 03:32:47 >>> King Crimson - Walking On Air
+2017-11-21 03:32:48 >>> 	Score: 0.981804	Title: Walking on Air	Artist: King Crimson
+2017-11-21 03:32:48 >>> 	Score: 0.981804	Title: Coda: Marine 475	Artist: King Crimson
+2017-11-21 03:32:48 >>> 	Score: 0.981804	Title: Walking on Air	Artist: King Crimson
+2017-11-21 03:32:48 >>> [('Walking on Air:--:King Crimson', 2), ('Walking On Air:--:King Crimson', 1), ('Coda: Marine 475:--:King Crimson', 1)]
+2017-11-21 03:32:48 >>> https://api.discogs.com/database/search?type=release&q=track:"Walking+on+Air"&artist="King+Crimson"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:32:50 >>> 	<Release '1632302' 'THRAK (4 Track Sampler)'>
+2017-11-21 03:32:50 >>> 	[{'name': 'CD', 'descriptions': ['Sampler', 'Promo'], 'qty': '1'}]
+2017-11-21 03:32:50 >>> Skipping...
+2017-11-21 03:32:51 >>> 	<Release '7956472' 'THRAK'>
+2017-11-21 03:32:51 >>> 	[{'name': 'CD', 'descriptions': ['Album'], 'qty': '1'}, {'name': 'DVD', 'descriptions': ['DVD-Audio', 'DVD-Video', 'Multichannel', 'NTSC', 'Album', 'Stereo'], 'qty': '1'}, {'name': 'All Media', 'descriptions': ['Reissue'], 'qty': '1', 'text': 'Digipak'}]
+2017-11-21 03:32:51 >>> Skipping...
+2017-11-21 03:32:52 >>> 	<Release '402613' 'THRAK'>
+2017-11-21 03:32:52 >>> 	[{'name': 'CD', 'descriptions': ['Album'], 'qty': '1'}]
+2017-11-21 03:32:52 >>> 		0.41269841269841273
+2017-11-21 03:32:52 >>> 		<__main__.Track object at 0x7fb500c7bd68>
+2017-11-21 03:32:52 >>> 		0.5238095238095238
+2017-11-21 03:32:52 >>> 		<__main__.Track object at 0x7fb500c7bd68>
+2017-11-21 03:32:52 >>> 		0.5273809523809524
+2017-11-21 03:32:52 >>> 		<__main__.Track object at 0x7fb500c7bd68>
+2017-11-21 03:32:52 >>> 		1.0
+2017-11-21 03:32:52 >>> 		FOUND TRACK: <__main__.Track object at 0x7fb500c7bd68>
+2017-11-21 03:32:56 >>> Fixing: King Crimson to King Crimson
+2017-11-21 03:32:56 >>> THRAK	King Crimson	402613	1995	UK & Europe	[{'name': 'CD', 'descriptions': ['Album'], 'qty': '1'}]	[<Artist 70828 'King Crimson'>]	['Rock']	https://img.discogs.com/MIlnuf_rXX53Ge0GXD9uRybS7Do=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1133712466.jpeg.jpg,https://img.discogs.com/R7D4KbFcSv53q5utMIPHbaSxkW4=/fit-in/593x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008464.jpeg.jpg,https://img.discogs.com/k-rLj5jyj68X8Ji9VA8gJToaq-4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008482.jpeg.jpg,https://img.discogs.com/ZjXMaH0s2JvTMZI_b9zZvT655n4=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1133712486.jpeg.jpg,https://img.discogs.com/lLKSYaU7Z3nfcqALm7ObRP06Zlo=/fit-in/600x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008501.jpeg.jpg,https://img.discogs.com/RQXTaCjdS7Ml2n8NJNn5QXz7dH4=/fit-in/599x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008508.jpeg.jpg,https://img.discogs.com/XFOl_AXjqJH6LvUlsBVPxNSd5K0=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008488.jpeg.jpg,https://img.discogs.com/WrELxl6aQY0d62vicv56ekEduvU=/fit-in/595x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008495.jpeg.jpg
+Walking On Air	4	415
+2017-11-21 03:32:59 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Walking On Air', 'Walking On Air', 'King Crimson', 'King Crimson', 'THRAK', 'THRAK', 'King Crimson', 'King Crimson', '1995', 'Corrected_Web', 'Rock', '', 4, 15, '18979cd051a7df1f79f09dfe74edc7a3');
+2017-11-21 03:32:59 >>> SELECT SongID from songtags where MD5='18979cd051a7df1f79f09dfe74edc7a3';
+2017-11-21 03:32:59 >>> (5178,)
+2017-11-21 03:33:03 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Walking On Air', 'King Crimson', 402613, 'THRAK', 'King Crimson', 1995, 'UK & Europe', 'Accepted', 'Rock', '{''name'': ''CD'', ''descriptions'': [''Album''], ''qty'': ''1''}', 'https://img.discogs.com/MIlnuf_rXX53Ge0GXD9uRybS7Do=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1133712466.jpeg.jpg,https://img.discogs.com/R7D4KbFcSv53q5utMIPHbaSxkW4=/fit-in/593x461/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008464.jpeg.jpg,https://img.discogs.com/k-rLj5jyj68X8Ji9VA8gJToaq-4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008482.jpeg.jpg,https://img.discogs.com/ZjXMaH0s2JvTMZI_b9zZvT655n4=/fit-in/600x469/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1133712486.jpeg.jpg,https://img.discogs.com/lLKSYaU7Z3nfcqALm7ObRP06Zlo=/fit-in/600x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008501.jpeg.jpg,https://img.discogs.com/RQXTaCjdS7Ml2n8NJNn5QXz7dH4=/fit-in/599x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008508.jpeg.jpg,https://img.discogs.com/XFOl_AXjqJH6LvUlsBVPxNSd5K0=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008488.jpeg.jpg,https://img.discogs.com/WrELxl6aQY0d62vicv56ekEduvU=/fit-in/595x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-402613-1227008495.jpeg.jpg', 4, '4', 15, 5178);

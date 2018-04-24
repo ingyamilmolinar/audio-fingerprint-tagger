@@ -1,0 +1,142 @@
+2017-11-21 03:24:16 >>> SELECT SongID from songtags where MD5='8c352eca36fdfb25e8eb95562dd60529';
+2017-11-21 03:24:16 >>> /var/www/html/audio-fingerprint-tagger/uploads/Sailing.m4a
+2017-11-21 03:24:16 >>> /var/www/html/audio-fingerprint-tagger/corrected/Sailing.m4a
+2017-11-21 03:24:16 >>> Christopher Cross - Sailing
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Emmerson Nogueira
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.976134	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Rod Stewart
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Rod Stewart
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.928336	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> 	Score: 0.68605	Title: Sailing	Artist: Christopher Cross
+2017-11-21 03:24:17 >>> [('Sailing:--:Christopher Cross', 49), ('Sailing:--:Rod Stewart', 2), ('Sailing:--:Emmerson Nogueira', 1)]
+2017-11-21 03:24:18 >>> https://api.discogs.com/database/search?type=release&q=track:"Sailing"&artist="Christopher+Cross"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:24:19 >>> 	<Release '560180' 'Sailing'>
+2017-11-21 03:24:19 >>> 	[{'descriptions': ['7"', '45 RPM', 'Single'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:19 >>> 		1.0
+2017-11-21 03:24:19 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b0274a8>
+2017-11-21 03:24:25 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:24:26 >>> 	<Release '2981142' 'Sailing'>
+2017-11-21 03:24:26 >>> 	[{'descriptions': ['7"', '45 RPM', 'Single'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:26 >>> 		1.0
+2017-11-21 03:24:26 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b037518>
+2017-11-21 03:24:32 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:24:33 >>> 	<Release '8231542' 'Sailing'>
+2017-11-21 03:24:33 >>> 	[{'descriptions': ['7"'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:33 >>> 		1.0
+2017-11-21 03:24:33 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b041898>
+2017-11-21 03:24:34 >>> 	<Release '5945988' 'Sailing'>
+2017-11-21 03:24:34 >>> 	[{'descriptions': ['7"', 'Single', '45 RPM'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:34 >>> 		1.0
+2017-11-21 03:24:34 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b037e10>
+2017-11-21 03:24:40 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:24:42 >>> 	<Release '4635889' 'Sailing'>
+2017-11-21 03:24:42 >>> 	[{'descriptions': ['7"', '45 RPM', 'Single', 'Promo', 'Stereo', 'Mono'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:42 >>> Skipping...
+2017-11-21 03:24:43 >>> 	<Release '2129771' 'Ride Like The Wind / Sailing'>
+2017-11-21 03:24:43 >>> 	[{'descriptions': ['7"', '45 RPM', 'Reissue'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:43 >>> Skipping...
+2017-11-21 03:24:44 >>> 	<Release '4072263' 'Sailing'>
+2017-11-21 03:24:44 >>> 	[{'descriptions': ['7"'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:44 >>> 		0.8736842105263157
+2017-11-21 03:24:44 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b041b00>
+2017-11-21 03:24:45 >>> 	<Release '7895223' 'Sailing'>
+2017-11-21 03:24:45 >>> 	[{'descriptions': ['7"', '45 RPM', 'Single'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:45 >>> 		1.0
+2017-11-21 03:24:45 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b037588>
+2017-11-21 03:24:51 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:24:52 >>> 	<Release '7896636' 'Sailing'>
+2017-11-21 03:24:52 >>> 	[{'descriptions': ['7"', '45 RPM', 'Single'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:24:52 >>> 		1.0
+2017-11-21 03:24:52 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b0412e8>
+2017-11-21 03:24:58 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:25:01 >>> 	<Release '7425004' 'Sailing'>
+2017-11-21 03:25:01 >>> 	[{'descriptions': ['7"', '45 RPM', 'Single'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:25:01 >>> 		1.0
+2017-11-21 03:25:01 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b0371d0>
+2017-11-21 03:25:07 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:25:08 >>> 	<Release '9528887' 'Sailing / Ride Like The Wind'>
+2017-11-21 03:25:08 >>> 	[{'descriptions': ['7"', '45 RPM', 'Single'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:25:08 >>> 		1.0
+2017-11-21 03:25:08 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b0412e8>
+2017-11-21 03:25:14 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:25:15 >>> 	<Release '370997' 'Christopher Cross'>
+2017-11-21 03:25:15 >>> 	[{'descriptions': ['LP', 'Album'], 'name': 'Vinyl', 'qty': '1'}]
+2017-11-21 03:25:15 >>> 		0.5317460317460317
+2017-11-21 03:25:15 >>> 		<__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:15 >>> 		0.4898589065255732
+2017-11-21 03:25:15 >>> 		<__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:15 >>> 		0.7417857142857143
+2017-11-21 03:25:15 >>> 		<__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:15 >>> 		0.4005602240896358
+2017-11-21 03:25:15 >>> 		<__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:15 >>> 		0.48412698412698413
+2017-11-21 03:25:15 >>> 		<__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:15 >>> 		0.5317460317460317
+2017-11-21 03:25:15 >>> 		<__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:15 >>> 		0.446031746031746
+2017-11-21 03:25:15 >>> 		<__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:15 >>> 		1.0
+2017-11-21 03:25:15 >>> 		FOUND TRACK: <__main__.Track object at 0x7fde7b041cf8>
+2017-11-21 03:25:21 >>> Fixing: Christopher Cross to Christopher Cross
+2017-11-21 03:25:21 >>> Christopher Cross	Christopher Cross	370997	1979	UK	[{'descriptions': ['LP', 'Album'], 'name': 'Vinyl', 'qty': '1'}]	[<Artist 48512 'Christopher Cross'>]	['Rock']	https://img.discogs.com/pX5glY-tpnLXocteOJiRvPcHWnk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601887-9455.jpeg.jpg,https://img.discogs.com/EK6NsC--dVCiKSdPLZ5TjxpNmhY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601908-2545.jpeg.jpg,https://img.discogs.com/lvoJHANgxZT7Qsn7aYxQt1gbHLw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601953-3560.jpeg.jpg,https://img.discogs.com/sX4q0J-oPp5s_YppLhU3kF_7zTU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601972-2628.jpeg.jpg
+Sailing	B3	89
+2017-11-21 03:25:26 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Sailing', 'Sailing', 'Christopher Cross', 'Christopher Cross', 'Christopher Cross', 'Christopher Cross', 'Christopher Cross', 'Christopher Cross', '1979', 'Corrected_Web', 'Rock', '', 8, 9, '8c352eca36fdfb25e8eb95562dd60529');
+2017-11-21 03:25:26 >>> SELECT SongID from songtags where MD5='8c352eca36fdfb25e8eb95562dd60529';
+2017-11-21 03:25:26 >>> (5172,)
+2017-11-21 03:25:31 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Sailing', 'Christopher Cross', 370997, 'Christopher Cross', 'Christopher Cross', 1979, 'UK', 'Accepted', 'Rock', '{''descriptions'': [''LP'', ''Album''], ''name'': ''Vinyl'', ''qty'': ''1''}', 'https://img.discogs.com/pX5glY-tpnLXocteOJiRvPcHWnk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601887-9455.jpeg.jpg,https://img.discogs.com/EK6NsC--dVCiKSdPLZ5TjxpNmhY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601908-2545.jpeg.jpg,https://img.discogs.com/lvoJHANgxZT7Qsn7aYxQt1gbHLw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601953-3560.jpeg.jpg,https://img.discogs.com/sX4q0J-oPp5s_YppLhU3kF_7zTU=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370997-1510601972-2628.jpeg.jpg', 8, 'B3', 9, 5172);

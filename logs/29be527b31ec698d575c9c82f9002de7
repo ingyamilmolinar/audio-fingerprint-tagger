@@ -1,0 +1,80 @@
+2017-11-21 03:26:24 >>> SELECT SongID from songtags where MD5='29be527b31ec698d575c9c82f9002de7';
+2017-11-21 03:26:24 >>> /var/www/html/audio-fingerprint-tagger/uploads/Schism.m4a
+2017-11-21 03:26:24 >>> /var/www/html/audio-fingerprint-tagger/corrected/Schism.m4a
+2017-11-21 03:26:24 >>> Tool  - Schism
+2017-11-21 03:26:25 >>> 	Score: 0.959124	Title: Schism (video premiere)	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.959124	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.959124	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.959124	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.899262	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.899262	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.899262	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.899262	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.723826	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.718091	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> 	Score: 0.655261	Title: Schism	Artist: Tool
+2017-11-21 03:26:25 >>> [('Schism:--:Tool', 9), ('Schism:--:Tool ', 1), ('Schism (video premiere):--:Tool', 1)]
+2017-11-21 03:26:25 >>> https://api.discogs.com/database/search?type=release&q=track:"Schism"&artist="Tool"&sort=year&sort_order=asc&token=TpOVGnsdTpMrkPVaRhUqXZXUrapnKmEXyQOKukJf
+Status Code: 200
+2017-11-21 03:26:26 >>> 	<Release '588873' 'Schism'>
+2017-11-21 03:26:26 >>> 	[{'qty': '1', 'name': 'DVD', 'descriptions': ['DVD-Video', 'NTSC', 'Single']}]
+2017-11-21 03:26:26 >>> Skipping...
+2017-11-21 03:26:27 >>> 	<Release '677256' 'Schism'>
+2017-11-21 03:26:27 >>> 	[{'qty': '1', 'name': 'DVD', 'descriptions': ['DVD-Video', 'PAL', 'Single']}]
+2017-11-21 03:26:27 >>> Skipping...
+2017-11-21 03:26:29 >>> 	<Release '378312' 'Schism'>
+2017-11-21 03:26:29 >>> 	[{'qty': '1', 'name': 'CD', 'descriptions': ['HDCD', 'Single', 'Promo']}]
+2017-11-21 03:26:29 >>> Skipping...
+2017-11-21 03:26:30 >>> 	<Release '5512039' 'Schism'>
+2017-11-21 03:26:30 >>> 	[{'qty': '1', 'name': 'DVD', 'descriptions': ['DVD-Video', 'PAL', 'Single']}]
+2017-11-21 03:26:30 >>> Skipping...
+2017-11-21 03:26:31 >>> 	<Release '1328720' 'Schism'>
+2017-11-21 03:26:31 >>> 	[{'qty': '1', 'name': 'CD', 'descriptions': ['HDCD', 'Single', 'Promo']}]
+2017-11-21 03:26:31 >>> Skipping...
+2017-11-21 03:26:32 >>> 	<Release '2014559' 'Schism'>
+2017-11-21 03:26:32 >>> 	[{'qty': '1', 'name': 'DVD', 'descriptions': ['DVD-Video', 'PAL', 'Single']}]
+2017-11-21 03:26:32 >>> Skipping...
+2017-11-21 03:26:33 >>> 	<Release '6544419' 'Schism'>
+2017-11-21 03:26:33 >>> 	[{'qty': '1', 'name': 'DVD', 'descriptions': ['DVD-Video', 'PAL', 'Single']}]
+2017-11-21 03:26:33 >>> Skipping...
+2017-11-21 03:26:35 >>> 	<Release '1576214' 'Schism'>
+2017-11-21 03:26:35 >>> 	[{'qty': '1', 'name': 'DVD', 'descriptions': ['DVD-Video', 'NTSC', 'Single']}]
+2017-11-21 03:26:35 >>> Skipping...
+2017-11-21 03:26:36 >>> 	<Release '7330180' 'Schism'>
+2017-11-21 03:26:36 >>> 	[{'qty': '1', 'name': 'VHS', 'descriptions': ['Promo']}]
+2017-11-21 03:26:36 >>> Skipping...
+2017-11-21 03:26:37 >>> 	<Release '6490070' 'Schism'>
+2017-11-21 03:26:37 >>> 	[{'qty': '1', 'name': 'DVD', 'descriptions': ['DVD-Video', 'NTSC', 'Single', 'Promo']}]
+2017-11-21 03:26:37 >>> Skipping...
+2017-11-21 03:26:38 >>> 	<Release '8969956' 'Schism'>
+2017-11-21 03:26:38 >>> 	[{'text': 'Quick Time', 'qty': '1', 'name': 'CD', 'descriptions': ['CD-ROM', 'Single', 'Enhanced', 'Promo', 'Stereo']}]
+2017-11-21 03:26:38 >>> Skipping...
+2017-11-21 03:26:40 >>> 	<Release '513594' 'Lateralus'>
+2017-11-21 03:26:40 >>> 	[{'text': '180g', 'qty': '2', 'name': 'Vinyl', 'descriptions': ['LP', 'Album', 'Limited Edition', 'Picture Disc', 'Reissue']}]
+2017-11-21 03:26:40 >>> Skipping...
+2017-11-21 03:26:41 >>> 	<Release '2137701' 'Lateralus'>
+2017-11-21 03:26:41 >>> 	[{'qty': '2', 'name': 'Vinyl', 'descriptions': ['LP', 'Unofficial Release']}]
+2017-11-21 03:26:41 >>> Skipping...
+2017-11-21 03:26:42 >>> 	<Release '367251' 'Lateralus'>
+2017-11-21 03:26:42 >>> 	[{'qty': '1', 'name': 'CD', 'descriptions': ['HDCD', 'Album', 'Misprint']}]
+2017-11-21 03:26:42 >>> 		0.4222222222222222
+2017-11-21 03:26:42 >>> 		<__main__.Track object at 0x7fc535ce0a58>
+2017-11-21 03:26:42 >>> 		0.0
+2017-11-21 03:26:42 >>> 		<__main__.Track object at 0x7fc535ce0a58>
+2017-11-21 03:26:42 >>> 		0.5050505050505051
+2017-11-21 03:26:42 >>> 		<__main__.Track object at 0x7fc535ce0a58>
+2017-11-21 03:26:42 >>> 		0.0
+2017-11-21 03:26:42 >>> 		<__main__.Track object at 0x7fc535ce0a58>
+2017-11-21 03:26:42 >>> 		1.0
+2017-11-21 03:26:42 >>> 		FOUND TRACK: <__main__.Track object at 0x7fc535ce0a58>
+2017-11-21 03:26:48 >>> Fixing: Tool (2) to Tool
+2017-11-21 03:26:48 >>> Lateralus	Tool	367251	2001	US	[{'qty': '1', 'name': 'CD', 'descriptions': ['HDCD', 'Album', 'Misprint']}]	[<Artist 87016 'Tool (2)'>]	['Rock']	https://img.discogs.com/_qbDoyAV3Wcv2EcOjzO1phvakp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1175935223.jpeg.jpg,https://img.discogs.com/P_z0Hzk5bPMP-_U3Z3oUV5GsQA8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1244783436.jpeg.jpg,https://img.discogs.com/Kqt4l3xYotHOLF5ZH8kgYW11ibY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1163354465.jpeg.jpg,https://img.discogs.com/01gjtdAnB5S8drD-4V0elu_NQ44=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1366602806-9618.jpeg.jpg
+Schism	5	513
+2017-11-21 03:26:53 >>> INSERT INTO songtags (SongTitle, SongTitleSortOrder, ArtistName, ArtistNameSortOrder, AlbumName, AlbumNameSortOrder, AlbumArtists, AlbumArtistsSortOrder, AlbumYear, Comments, AlbumGenres, SongLyrics, TrackPosition, AlbumTotalTracks, MD5) VALUES ('Schism', 'Schism', 'Tool', 'Tool', 'Lateralus', 'Lateralus', 'Tool', 'Tool', '2001', 'Corrected_Web', 'Rock', '', 5, 13, '29be527b31ec698d575c9c82f9002de7');
+2017-11-21 03:26:53 >>> SELECT SongID from songtags where MD5='29be527b31ec698d575c9c82f9002de7';
+2017-11-21 03:26:53 >>> (5173,)
+2017-11-21 03:26:58 >>> INSERT INTO discogsdbinfo (SongTitle, ArtistName, AlbumDiscogsID, AlbumName, AlbumArtists, AlbumYear, AlbumCountry, AlbumStatus, AlbumGenres, AlbumFormats, AlbumImageUrls, TrackIntPosition, TrackPosition, AlbumTotalTracks, SongID) VALUES ('Schism', 'Tool', 367251, 'Lateralus', 'Tool', 2001, 'US', 'Accepted', 'Rock', '{''qty'': ''1'', ''name'': ''CD'', ''descriptions'': [''HDCD'', ''Album'', ''Misprint'']}', 'https://img.discogs.com/_qbDoyAV3Wcv2EcOjzO1phvakp8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1175935223.jpeg.jpg,https://img.discogs.com/P_z0Hzk5bPMP-_U3Z3oUV5GsQA8=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1244783436.jpeg.jpg,https://img.discogs.com/Kqt4l3xYotHOLF5ZH8kgYW11ibY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1163354465.jpeg.jpg,https://img.discogs.com/01gjtdAnB5S8drD-4V0elu_NQ44=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367251-1366602806-9618.jpeg.jpg', 5, '5', 13, 5173);
+2017-11-21 03:28:07 >>> SELECT SongID from songtags where MD5='29be527b31ec698d575c9c82f9002de7';
+2017-11-21 03:28:07 >>> (5173,)
+2017-11-21 03:28:07 >>> SELECT * from songtags where MD5='29be527b31ec698d575c9c82f9002de7';
+2017-11-21 03:28:07 >>> [('SongID', 5173), ('SongTitle', 'Schism'), ('SongTitleSortOrder', 'Schism'), ('ArtistName', 'Tool'), ('ArtistNameSortOrder', 'Tool'), ('AlbumName', 'Lateralus'), ('AlbumNameSortOrder', 'Lateralus'), ('AlbumArtists', 'Tool'), ('AlbumArtistsSortOrder', 'Tool'), ('AlbumYear', 2001), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock'), ('SongLyrics', ''), ('TrackPosition', 5), ('AlbumTotalTracks', 13), ('MD5', '29be527b31ec698d575c9c82f9002de7')]

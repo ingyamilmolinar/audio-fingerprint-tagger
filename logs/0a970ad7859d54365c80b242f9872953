@@ -1,0 +1,4 @@
+2017-11-21 01:02:08 >>> SELECT SongID from songtags where MD5='0a970ad7859d54365c80b242f9872953';
+2017-11-21 01:02:08 >>> (3269,)
+2017-11-21 01:02:08 >>> SELECT * from songtags where MD5='0a970ad7859d54365c80b242f9872953';
+2017-11-21 01:02:08 >>> [('SongID', 3269), ('SongTitle', 'Rio'), ('SongTitleSortOrder', 'Rio'), ('ArtistName', 'Duran Duran'), ('ArtistNameSortOrder', 'Duran Duran'), ('AlbumName', 'Rio'), ('AlbumNameSortOrder', 'Rio'), ('AlbumArtists', ''), ('AlbumArtistsSortOrder', ''), ('AlbumYear', 1982), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock,Pop'), ('SongLyrics', ''), ('TrackPosition', 1), ('AlbumTotalTracks', 9), ('MD5', '0a970ad7859d54365c80b242f9872953')]
