@@ -1,4 +1,0 @@
-2017-11-21 03:07:32 >>> SELECT SongID from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
-2017-11-21 03:07:32 >>> (5169,)
-2017-11-21 03:07:32 >>> SELECT * from songtags where MD5='def565dd44ce02642c14f60f3c3c8db5';
-2017-11-21 03:07:32 >>> [('SongID', 5169), ('SongTitle', 'Adult Diversion'), ('SongTitleSortOrder', 'Adult Diversion'), ('ArtistName', 'Alvvays'), ('ArtistNameSortOrder', 'Alvvays'), ('AlbumName', 'Alvvays'), ('AlbumNameSortOrder', 'Alvvays'), ('AlbumArtists', 'Alvvays'), ('AlbumArtistsSortOrder', 'Alvvays'), ('AlbumYear', 2014), ('Comments', 'Corrected_Web'), ('AlbumGenres', 'Rock'), ('SongLyrics', ''), ('TrackPosition', 1), ('AlbumTotalTracks', 9), ('MD5', 'def565dd44ce02642c14f60f3c3c8db5')]

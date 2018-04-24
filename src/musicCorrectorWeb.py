@@ -577,7 +577,7 @@ def main():
   Globals.MIN_TRACK_SIMILARITY = .80
   # TODO: Get values from config file
   Logger(Globals.LOGFILE)
-  Database(host="localhost", user="ymolinar", passwd="Yams31416Y", dbname="musiccorrectordb")
+  Database(host="localhost", user="root", passwd="password", dbname="musiccorrectordb")
 
   Globals.clients.append(Client(clienttype='Discogs', appname=Globals.APPNAME, version=Globals.VERSION,
              apitoken=Globals.DISCOGS_API_TOKEN, apiurl='https://api.discogs.com/database/'))
